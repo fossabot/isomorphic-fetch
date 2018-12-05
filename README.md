@@ -1,4 +1,5 @@
 isomorphic-fetch [![Build Status](https://travis-ci.org/matthew-andrews/isomorphic-fetch.svg?branch=master)](https://travis-ci.org/matthew-andrews/isomorphic-fetch)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fisomorphic-fetch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fisomorphic-fetch?ref=badge_shield)
 ================
 
 Fetch for node and Browserify.  Built on top of [GitHub's WHATWG Fetch polyfill](https://github.com/github/fetch).
@@ -48,3 +49,6 @@ fetch('//offline-news-api.herokuapp.com/stories')
 ## License
 
 All open source code released by FT Labs is licenced under the MIT licence.  Based on [the fine work by](https://github.com/github/fetch/pull/31) **[jxck](https://github.com/Jxck)**.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fisomorphic-fetch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fisomorphic-fetch?ref=badge_large)
